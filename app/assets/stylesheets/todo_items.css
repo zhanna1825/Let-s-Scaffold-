@@ -1,0 +1,25 @@
+/*
+  Place all the styles related to the matching controller here.
+  They will automatically be included in application.css.
+*/
+
+body {
+    background-color: hsl(312, 85%, 43%);
+}
+
+h1 {
+    font-size: 30px;
+    color: #fff;
+    text-align: center;
+}
+
+.Main {
+    text-align: center;
+    margin-left: 45%;
+    margin-right: 55%;
+    color: #fff;
+}
+
+a {
+    text-align: center;
+}
